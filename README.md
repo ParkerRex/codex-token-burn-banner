@@ -1,5 +1,7 @@
 # Codex Token Burn Banner
 
+![Example Codex token burn banner](assets/example-codex-token-burn-banner.png)
+
 Generate local Codex usage graphics and optionally post them to X.
 
 The app reads local Codex session JSONL files, aggregates token usage by local
